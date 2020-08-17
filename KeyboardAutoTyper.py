@@ -15,11 +15,11 @@ try:
     print('@3', ' : max@callitclosed.com')
     
     
-    keyboard.add_abbreviation('2898', '2898 Gipper Circle, Sanford Florida, 32773')
-    print('2898', ' : 2898 Gipper Circle')
+    keyboard.add_abbreviation('Address', 'XX')
+    print('Address', ' : XX')
     
-    keyboard.add_abbreviation('417', '417-522-8598')
-    print('417', ' : 417-522-8598')
+    keyboard.add_abbreviation('417', 'XX')
+    print('417', ' : XX')
     
     keyboard.add_abbreviation('teh', 'the')
     keyboard.add_abbreviation('Teh', 'The')
@@ -30,8 +30,8 @@ try:
     keyboard.add_abbreviation('mdlin', 'www.linkedin.com/in/max-derevencha')
     print('mdlin', ' : www.linkedin.com/in/max-derevencha')
     
-    keyboard.add_abbreviation('gv', '407-900-3908')
-    print('gv', ' : 407-900-3908')
+    keyboard.add_abbreviation('gv', 'XX')
+    print('gv', ' : XX')
     
     #Run until closed sorta like "While True"
     keyboard.wait()
